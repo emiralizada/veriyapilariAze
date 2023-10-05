@@ -1,0 +1,2 @@
+# veriyapilariAze
+C++ developer
